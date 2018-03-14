@@ -12,12 +12,12 @@ nav .danishflag {
   height: auto;
   float: right;
   margin-top: 37px;
-  margin-right: 140px;
+  margin-right: 36%;
 }
 nav .britainflag {
   width: 35px;
   height: auto;
-  margin-left: 140px;
+  margin-left: 37%;
   margin-top: 40px;
 }
 nav .logo {
@@ -56,6 +56,7 @@ nav ul a {
   color: white;
   font-size: 28px;
   margin-left: 5%;
+  margin-right: 2%;
   font-family: 'arial';
 }
 
@@ -133,37 +134,48 @@ hr {
 footer {
   background-color: black;
   background-color: #185970;
+  margin-top: 0%;
 }
 footer h3 {
   color: white;
   font-family: 'arial';
   font-size: 45px;
-  margin-left: 20%;
+  text-align: center;
+  padding-top: 9%;
+  margin-bottom: 0%;
+  margin-top: 0%;
   text-decoration: none;
 }
-footer .follow {
-  margin-top: 3%;
-}
+
 footer #costumer {
-  margin-left: 9%;
+  margin-top: 0%;
 }
 footer #list {
-  margin-left: 10%;
-  font-size: 30px;
+  font-size: 28px;
   margin-right: 10%;
   margin-top: -10%;
 }
+
+footer #list ul {
+  list-style-type: none;
+}
+
 footer h4 {
   color: #3B5998;
   font-family: 'arial';
   font-size: 45px;
-  margin-left: 20%;
+  text-align: center;
+  margin-top: 0%;
 }
 footer .foter {
   width: 300px;
-  margin-left: -10%;
+  text-align: center;
+  margin-bottom: 5%;
+  margin-top: 10%;
 }
 footer .payment {
+  margin-top: 10%;
+  margin-left: 16%;
   width: 70%;
   height: auto;
 }
