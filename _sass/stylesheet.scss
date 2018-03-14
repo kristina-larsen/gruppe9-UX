@@ -91,16 +91,14 @@ ul {
 
           h2 {
             background-color: rgba(255,255,255, 0.7);
-            padding: 30px 90px;
-            text-align: center;
-            font-style: italic;
+            padding: 30px 30px;
+            font-style: normal;
             font-size: 20px;
-            vertical-align: middle;
-            font-family: 'Cormorant Garamond', serif;;
+            font-family: 'arial';
             position: absolute;
             font-weight: normal;
-            width: 10%;
             display:block;
+            width: 50%;
             }
 
             .text1 {
@@ -120,28 +118,37 @@ ul {
 }
 
 hr {
-width: 100px;
+width: 150px;
 text-align: center;
-margin-bottom: 7%;
 color: #87AA44;
 border-style: solid;
-border-width: 4px;
+border-width: 6px;
+margin-left: 0px;
 }
 
 .fa-heart {
-  padding-top:40%;
+  padding-top: 10%;
+  font-size: 30px;
 }
 
  .text4 {
-   margin-top: -1020px;
+   margin-top: -1800px;
 }
 
 .text5 {
-  margin-top: -650px;
+  margin-top: -1400px;
 }
 
 .text6 {
-  margin-top: -290px;
+  margin-top: -1070px;
+}
+
+.text7 {
+  margin-top: -660px;
+}
+
+.text8 {
+  margin-top: -300px;
 }
 
 footer {
@@ -188,15 +195,15 @@ h4 {
 
 .foter {
   width: 300px;
-  text-align: center;
   margin-bottom: 5%;
   margin-top: 10%;
+  margin-left: 8%;
 }
 
 .payment {
-  margin-top: 10%;
-  margin-left: 16%;
-  width: 70%;
+  margin-top: 5%;
+  margin-left: 6%;
+  width: 90%;
   height: auto;
 }
 }
