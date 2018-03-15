@@ -1,0 +1,188 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #185970;
+  /*margin-top: -5.1%;*/
+}
+nav .danishflag {
+  width: 51px;
+  height: auto;
+  float: right;
+  margin-top: 37px;
+  margin-right: 36%;
+}
+nav .britainflag {
+  width: 35px;
+  height: auto;
+  margin-left: 37%;
+  margin-top: 40px;
+}
+nav .logo {
+  width: 55%;
+  height: auto;
+  margin-left: 22%;
+  margin-top: 8%;
+}
+nav div {
+  width: 100%;
+  margin-top: 4%;
+}
+nav div input {
+  position: absolute;
+  border-radius: 20px;
+  border: none;
+  width: 70%;
+  height: 5%;
+  margin-left: 15%;
+}
+nav div .fa-search {
+  position: relative;
+  color: #87AA44;
+  margin-left: 78%;
+  margin-top: 2.6%;
+}
+nav ul {
+  text-decoration: none;
+  margin-top: 10%;
+  text-align: center;
+  margin-right: 15%;
+  padding-bottom: 12%;
+}
+nav ul a {
+  text-decoration: none;
+  color: white;
+  font-size: 28px;
+  margin-left: 5%;
+  margin-right: 2%;
+  font-family: 'arial';
+}
+
+h1 {
+  font-size: 29px;
+  font-family: 'arial';
+  color: #37474f;
+  margin-left: 10%;
+  margin-top: 9%;
+  text-decoration: none;
+}
+
+section {
+  display: inline-block;
+  width: 100%;
+  margin-top: 2%;
+}
+section .work {
+  width: 90%;
+  height: auto;
+  margin-bottom: 7%;
+  margin-left: 5%;
+}
+section h2 {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 30px 30px;
+  font-style: normal;
+  font-size: 20px;
+  font-family: 'arial';
+  position: absolute;
+  font-weight: normal;
+  display: block;
+  width: 50%;
+}
+section .text1 {
+  margin-top: -980px;
+  display: block;
+}
+section .text2 {
+  margin-top: -615px;
+  display: block;
+}
+section .text3 {
+  margin-top: -250px;
+  display: block;
+}
+
+hr {
+  width: 150px;
+  text-align: center;
+  color: #87AA44;
+  border-style: solid;
+  border-width: 6px;
+  margin-left: 0px;
+}
+
+.fa-heart {
+  padding-top: 10%;
+  font-size: 30px;
+}
+
+.text4 {
+  margin-top: -1800px;
+}
+
+.text5 {
+  margin-top: -1400px;
+}
+
+.text6 {
+  margin-top: -1070px;
+}
+
+.text7 {
+  margin-top: -660px;
+}
+
+.text8 {
+  margin-top: -300px;
+}
+
+footer {
+  background-color: black;
+  background-color: #185970;
+  margin-top: 0%;
+}
+footer h3 {
+  color: white;
+  font-family: 'arial';
+  font-size: 45px;
+  text-align: center;
+  padding-top: 9%;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  text-decoration: none;
+}
+footer .follow {
+  margin-top: 3%;
+}
+footer #costumer {
+  margin-top: 0%;
+}
+footer #list {
+  font-size: 28px;
+  margin-right: 10%;
+  margin-top: -10%;
+}
+footer #list ul {
+  list-style-type: none;
+}
+footer h4 {
+  color: #3B5998;
+  font-family: 'arial';
+  font-size: 45px;
+  text-align: center;
+  margin-top: 0%;
+}
+footer .foter {
+  width: 300px;
+  margin-bottom: 5%;
+  margin-top: 10%;
+  margin-left: 8%;
+}
+footer .payment {
+  margin-top: 5%;
+  margin-left: 6%;
+  width: 90%;
+  height: auto;
+}
