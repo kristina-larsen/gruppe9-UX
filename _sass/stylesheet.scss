@@ -77,7 +77,7 @@ ul {
     text-decoration: none;
   }
 
-  section {
+section {
   display: inline-block;
   width: 100%;
   margin-top: 2%;
@@ -97,7 +97,7 @@ ul {
             font-family: 'arial';
             position: absolute;
             font-weight: normal;
-            display:block;
+            display: block!important;
             width: 50%;
             }
 
@@ -246,7 +246,7 @@ h4 {
       .fa-search {
         display: none;
         }
-      }
+       }
 
     ul {
       text-decoration: none;
@@ -266,6 +266,138 @@ h4 {
         font-family: 'arial';
         }
        }
+      }
 
-  }
+
+     h1 {
+       font-size: 35px;
+       margin-left: 0%;
+       margin-top: 9%;
+       text-align: center;
+     }
+
+section {
+     .work {
+     width: 30%;
+     height: auto;
+     margin-bottom: 0%;
+     margin-left: 2%;
+     }
+
+     h2 {
+       width: 27%;
+     }
+
+     .text1 {
+       margin-left: 2%;
+       margin-top: 0%;
+     }
+
+     .text2 {
+       margin-top: 0%;
+       margin-left: 33%;
+     }
+
+     .text3 {
+       margin-left: 66%;
+       margin-top: 0%;
+     }
+   }
+
+   hr {
+   width: 150px;
+   text-align: center;
+   color: #87AA44;
+   border-style: solid;
+   border-width: 6px;
+   margin-left: 0px;
+   }
+
+   .fa-heart {
+     padding-top: 10%;
+     font-size: 30px;
+   }
+
+    .text4 {
+      margin-top: -47.2%;
+      margin-left: 2%;
+   }
+
+   .text5 {
+     margin-top: -47.2%;
+     margin-left: 34%;
+   }
+
+   .text6 {
+     margin-top: -47.2%;
+     margin-left: 66%;
+   }
+
+   .text7 {
+     margin-top: -200px;
+     margin-left: 2%;
+   }
+
+   .text8 {
+     margin-top: -200px;
+     margin-left: 34%;
+   }
+
+   footer {
+     background-color: black;
+     background-color: #185970;
+     margin-top: 0%;
+
+   h3 {
+     color: white;
+     font-family: 'arial';
+     font-size: 45px;
+     text-align: center;
+     padding-top: 9%;
+     margin-bottom: 0%;
+     margin-top: 0%;
+     text-decoration: none;
+   }
+
+   .follow {
+     margin-top: 3%;
+     margin-right: 70%;
+   }
+
+     #costumer {
+     margin-top: -280px;
+     margin-left: 70%;
+      }
+
+      #list {
+        font-size: 25px;
+        margin-left: 68%;
+        margin-top: -10%;
+        width: 30%;
+
+        ul {
+          list-style-type: none;
+        }
+      }
+
+   h4 {
+     color: #3B5998;
+     font-family: 'arial';
+     font-size: 45px;
+     text-align: center;
+     margin-top: 0%;
+     margin-right: 70%;
+   }
+
+   .foter {
+     display: none;
+   }
+
+   .payment {
+     margin-top: 5%;
+     margin-left: 6%;
+     width: 90%;
+     height: auto;
+   }
+   }
 }
