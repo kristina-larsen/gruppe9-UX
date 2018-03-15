@@ -522,6 +522,120 @@ section {
    }
   }
 
+  .event_i_kurv {
+    height: 800px;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    background-color: rgb(225,225,225);
+
+  img {
+    width: 34%;
+    height: auto;
+  }
+
+   .information_kurv {
+    position: absolute;
+    top: 47%;
+    left: 35.5%;
+
+
+    h2 {
+    margin-bottom: 5px;
+  }
+
+    h3{
+    margin-top: 0px;
+    margin-bottom: 30px;
+  }
+  }
+
+ .event_billet {
+    width: 200px;
+    margin: 0;
+
+   h3 {
+    width: 300px;
+    height: 25px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 10%;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  }
+
+   .pris_kurv1 {
+    position: absolute;
+    top: 112%;
+    left: 80%;
+  }
+
+   .pris_kurv2 {
+    position: absolute;
+    top: 114.5%;
+    left: 80%;
+  }
+
+   .pris_kurv3 {
+    position: absolute;
+    top: 116.7%;
+    left: 80%;
+  }
+
+   .pris_kurv11 {
+    position: absolute;
+    top: 112%;
+    left: 92%;
+  }
+
+   .pris_kurv12 {
+    position: absolute;
+    top: 114.5%;
+    left: 92%;
+  }
+
+   .pris_kurv13 {
+    position: absolute;
+    top: 116.7%;
+    left: 92%;
+  }
+
+   .pris_kurv14 {
+    position: absolute;
+    top: 122.5%;
+    left: 1%;
+  }
+
+   .pris_kurv14 h4 {
+    font-size: 20px;
+  }
+
+   .pris_kurv15 {
+    position: absolute;
+    top: 123.5%;
+    left: 92%;
+  }
+  }
+
+  .total_pris_kurv {
+    width: 100%;
+    height: 68px;
+    margin-top: 5%;
+    margin-bottom: 7%;
+    background-color: rgb(225,225,225);
+
+
+   .subtotal_kurv {
+    float: left;
+    margin-left: 2%;
+  }
+
+    .subtotal_pris_kurv {
+    float: right;
+    margin-right: 2%;
+  }
+}
+
    input[type=text], select, [type=number], [type=email], [type=date] {
        width: 100%;
        padding: 12px 20px;

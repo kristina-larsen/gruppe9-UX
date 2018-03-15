@@ -394,6 +394,7 @@ footer {
   footer {
     background-color: black;
     background-color: #185970;
+<<<<<<< HEAD
     margin-top: 0%; }
     footer h3 {
       color: white;
@@ -441,6 +442,208 @@ footer {
       margin-left: 6%;
       width: 90%;
       height: auto; }
+=======
+    margin-top: 0%;
+  }
+  footer h3 {
+    color: white;
+    font-family: 'arial';
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    text-decoration: none;
+  }
+  footer .follow {
+    margin-top: 3%;
+    margin-right: 70%;
+  }
+  footer #costumer {
+    margin-top: -315px;
+    margin-left: 70%;
+  }
+  footer #list {
+    font-size: 25px;
+    margin-left: 68%;
+    margin-top: -10%;
+    width: 30%;
+  }
+  footer #list .snedker {
+    display: none;
+  }
+  footer #list ul {
+    list-style-type: none;
+  }
+
+  footer h4 {
+    color: #3B5998;
+    font-family: 'arial';
+    font-size: 45px;
+    text-align: center;
+    margin-top: 0%;
+    margin-right: 70%;
+  }
+  footer h5 {
+    color: white;
+    font-family: 'arial';
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: -10%;
+    text-decoration: none;
+  }
+  footer .foter {
+    display: none;
+  }
+  footer .payment {
+    margin-top: 5%;
+    margin-bottom: -6%;
+    margin-left: 6%;
+    width: 90%;
+    height: auto;
+  }
+>>>>>>> 141415cc77b8cfdfb6848fbe9fac0398e87ba31c
+
+  .event_i_kurv {
+    height: 800px;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    background-color: rgb(225,225,225);
+  }
+
+  .event_i_kurv img {
+    width: 34%;
+    height: auto;
+  }
+
+  .event_i_kurv .information_kurv {
+    position: absolute;
+    top: 47%;
+    left: 35.5%;
+  }
+
+  .event_i_kurv .information_kurv h2 {
+    margin-bottom: 5px;
+  }
+
+  .event_i_kurv .information_kurv  h3{
+    margin-top: 0px;
+    margin-bottom: 30px;
+  }
+
+  .event_i_kurv .event_billet {
+    width: 200px;
+    margin: 0;
+  }
+
+  .event_i_kurv .event_billet h3 {
+    width: 300px;
+    height: 25px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 10%;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .event_i_kurv .pris_kurv1 {
+    position: absolute;
+    top: 112%;
+    left: 80%;
+  }
+  .event_i_kurv .pris_kurv2 {
+    position: absolute;
+    top: 114.5%;
+    left: 80%;
+  }
+  .event_i_kurv .pris_kurv3 {
+    position: absolute;
+    top: 116.7%;
+    left: 80%;
+  }
+
+  .event_i_kurv .pris_kurv11 {
+    position: absolute;
+    top: 112%;
+    left: 92%;
+  }
+  .event_i_kurv .pris_kurv12 {
+    position: absolute;
+    top: 114.5%;
+    left: 92%;
+  }
+  .event_i_kurv .pris_kurv13 {
+    position: absolute;
+    top: 116.7%;
+    left: 92%;
+  }
+
+  .event_i_kurv .pris_kurv14 {
+    position: absolute;
+    top: 122.5%;
+    left: 1%;
+  }
+
+  .event_i_kurv .pris_kurv14 h4 {
+    font-size: 20px;
+  }
+
+  .event_i_kurv .pris_kurv15 {
+    position: absolute;
+    top: 123.5%;
+    left: 92%;
+  }
+  
+  .total_pris_kurv {
+    width: 100%;
+    height: 68px;
+    margin-top: 5%;
+    margin-bottom: 7%;
+    background-color: rgb(225,225,225);
+  }
+
+  .total_pris_kurv .subtotal_kurv {
+    float: left;
+    margin-left: 2%;
+  }
+
+  .total_pris_kurv .subtotal_pris_kurv {
+    float: right;
+    margin-right: 2%;
+  }
+
+.Fortsæt_til_levering1 {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-left: 80%;
+  padding-left: 1%;
+  padding-right: 1%;
+  background-color: green;
+  float: right;
+  margin-right: 1%;
+}
+
+.Fortsæt_til_levering1 h1 {
+  font-size: 20px;
+  color: white;
+}
+
+.Fortsæt_til_levering2 {
+  margin-top: -5%;
+  margin-bottom: 1%;
+  margin-left: 80%;
+  padding-left: 1%;
+  padding-right: 1%;
+  background-color: green;
+  float: right;
+  margin-right: 1%;
+}
+
+.Fortsæt_til_levering2 h1 {
+  font-size: 20px;
+  color: white;
+}
+
 
   input[type=text], select, [type=number], [type=email], [type=date] {
     width: 100%;
