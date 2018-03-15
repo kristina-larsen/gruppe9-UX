@@ -174,6 +174,15 @@ footer h4 {
   text-align: center;
   margin-top: 0%;
 }
+footer h5 {
+  color: white;
+  font-family: 'arial';
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  text-decoration: none;
+}
 footer .foter {
   width: 300px;
   margin-bottom: 5%;
@@ -241,7 +250,7 @@ footer .payment {
   h1 {
     font-size: 35px;
     margin-left: 0%;
-    margin-top: 9%;
+    margin-top: 8%;
     text-align: center;
   }
 
@@ -316,7 +325,6 @@ footer .payment {
     font-family: 'arial';
     font-size: 45px;
     text-align: center;
-    padding-top: 9%;
     margin-bottom: 0%;
     margin-top: 0%;
     text-decoration: none;
@@ -335,6 +343,9 @@ footer .payment {
     margin-top: -10%;
     width: 30%;
   }
+  footer #list .snedker {
+    display: none;
+  }
   footer #list ul {
     list-style-type: none;
   }
@@ -346,11 +357,21 @@ footer .payment {
     margin-top: 0%;
     margin-right: 70%;
   }
+  footer h5 {
+    color: white;
+    font-family: 'arial';
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: -12%;
+    text-decoration: none;
+  }
   footer .foter {
     display: none;
   }
   footer .payment {
     margin-top: 5%;
+    margin-bottom: -6%;
     margin-left: 6%;
     width: 90%;
     height: auto;
