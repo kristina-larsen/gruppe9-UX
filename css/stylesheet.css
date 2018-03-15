@@ -186,3 +186,55 @@ footer .payment {
   width: 90%;
   height: auto;
 }
+
+@media screen and (min-width: 992px) {
+  .navigation {
+    height: 180px;
+  }
+  .navigation .danishflag {
+    margin-right: 2%;
+  }
+  .navigation .britainflag {
+    margin-left: 90%;
+  }
+  .navigation .logo {
+    margin-left: 2%;
+    height: 100px;
+    width: auto;
+    margin-top: -4%;
+  }
+  .navigation div {
+    width: 100%;
+    margin-top: 0%;
+  }
+  .navigation div input {
+    position: absolute;
+    border-radius: 20px;
+    border: none;
+    width: 60%;
+    height: 4%;
+    margin-left: 23%;
+    margin-top: -4%;
+    overflow-y: hidden;
+  }
+  .navigation div .fa-search {
+    display: none;
+  }
+  .navigation ul {
+    text-decoration: none;
+    margin-top: -3%;
+    text-align: center;
+    margin-left: 83%;
+    padding-bottom: 0%;
+    width: 200px;
+  }
+  .navigation ul a {
+    text-decoration: none;
+    color: white;
+    width: 50px;
+    font-size: 20px;
+    margin-left: 0%;
+    margin-right: 2%;
+    font-family: 'arial';
+  }
+}
