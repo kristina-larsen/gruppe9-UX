@@ -236,7 +236,7 @@ footer .payment {
 
 @media screen and (min-width: 992px) {
   .navigation {
-    height: 180px;
+    height: 228px;
   }
   .navigation .danishflag {
     margin-right: 2%;
@@ -281,7 +281,7 @@ footer .payment {
     width: 50px;
     font-size: 20px;
     margin-left: 0%;
-    margin-right: 2%;
+    margin-right: 20%;
     font-family: 'arial';
   }
 
@@ -300,6 +300,7 @@ footer .payment {
   }
   section h2 {
     width: 27%;
+    height: auto;
   }
   section .text1 {
     margin-left: 2%;
@@ -329,27 +330,27 @@ footer .payment {
   }
 
   .text4 {
-    margin-top: -43.5%;
+    margin-top: -45.8%;
     margin-left: 2%;
   }
 
   .text5 {
-    margin-top: -43.5%;
+    margin-top: -45.8%;
     margin-left: 34%;
   }
 
   .text6 {
-    margin-top: -43.5%;
+    margin-top: -45.8%;
     margin-left: 66.2%;
   }
 
   .text7 {
-    margin-top: -200px;
+    margin-top: -14.1%;
     margin-left: 2%;
   }
 
   .text8 {
-    margin-top: -200px;
+    margin-top: -14.1%;
     margin-left: 34%;
   }
 
@@ -372,7 +373,7 @@ footer .payment {
     margin-right: 70%;
   }
   footer #costumer {
-    margin-top: -280px;
+    margin-top: -315px;
     margin-left: 70%;
   }
   footer #list {
@@ -401,7 +402,7 @@ footer .payment {
     font-size: 35px;
     text-align: center;
     margin-bottom: 0%;
-    margin-top: -12%;
+    margin-top: -10%;
     text-decoration: none;
   }
   footer .foter {
