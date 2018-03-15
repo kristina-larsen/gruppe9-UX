@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/stylesheet.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+    <title>Billetsalg</title>
+  </head>
+
+  <body>
+
+    <nav class= "navigation">
+
+    <img class= "danishflag" src= "img/dflag.png" alt= "header"/>
+    <img class= "britainflag" src= "img/bflag.png" alt= "header"/>
+    <img class= "logo" src= "img/logo.png" alt= "header"/>
+
+<div class="search">
+    <input type="text" placeholder="">
+    <i class="fa fa-search"></i>
+</div>
+
+    <ul>
+        <a href="#">Min profil</a>
+        <a href="#">Indkøbskurv</a>
+    </ul>
+
+    </nav>
+
+
+
+<section>
+<h4> <strong>>Indkøbskurv> Levering></strong> Betaling> Ordreoversigt </h4>
+</section>
+
+<section>
+
+	<div class="postage">
+		<form>
+		<input type="checkbox" name="postage" value="standard">Standard post<br>
+		<p>DKK 39.00</p></input>
+		<br>
+			<input type="checkbox" name="postage" value="standard">Print selv<br>
+		<p>DKK 39.00</p></input>
+		</form>
+	</div>
+	</section>
+
+	<section>
+	<p>Personlige oplysninger</p>
+	<div class="oplysninger">
+
+		<form>
+  For- og efternavn<br>
+<input type="text" name="fname"><br><br>
+<input type="text" name="ename"><br><br>
+Adresse<br>
+<input type="text" name="adresse"><br><br>
+Postnummer<br>
+<input type="text" name="postnummer" pattern="[0-9]{3,4}"><br><br>
+By<br>
+<input type="text" name="by"><br><br>
+Land<br>
+<select name="land">
+	<option value="DK">Denmark</option>
+	<option value="FO">Faroe Islands</option>
+	<option value="GL">Greenland</option>
+	<option value="NO">Norway</option>
+	<option value="SE">Sweden</option>
+	<option value="GB">United Kingdom</option>
+			</select><br><br>
+Email<br>
+<input type="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$"><br><br>
+Telefonnummer<br>
+<input type="number" name="telefonnr"><br><br>
+Fødselsdag<br>
+<input type="date" name="bday"><br><br>
+</form>
+	</div>
+</section>
+
+<section>
+<div class="subtotal">
+			<p>Subtotal: DKK 565.00</p>
+</div></section>
+
+<section>
+		<input type="submit" value="Fortsæt til betaling"></section>
+
+<footer>
+
+<h3 class="follow"> Følg os på </class></h3>
+<h4 class="facebook"> Facebook </class></h4>
+<hr class="foter"/>
+<h3 id="costumer"> Kundeservice </h3>
+<h3 id="list">
+<ul>
+  <li>+45 71 99 31 22</li>
+  <li>Man - Tor: 10-17</li>
+  <li>Fre: 10-13</li>
+</ul>
+</h3>
+
+<hr class="foter"/>
+<h3> Snedkervej 12 <br>
+2630 Taastrup </h3>
+<hr class="foter"/>
+<img class= "payment" src= "img/betaling.png" alt= "betaling"/>
+
+<h3> CVR-nr: 10147751 </h3>
+
+</footer>
+
+<script src="jquery/jquery-3.3.1.min.js"></script>
+<script src="jquery/myjquery.js"></script>
+
+  </body>
+</html>

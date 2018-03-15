@@ -117,6 +117,44 @@ section {
  }
 }
 
+.postage {
+	border: #707070;
+	border-style: solid;
+	border-width: 1px;
+	padding: 20px;
+	background-color:#EFEFEF;
+	font-family: 'arial';
+	height: 150px;
+	margin-bottom: 30px;
+	color: #18586F;
+}
+
+.oplysninger {
+	border: #707070;
+	border-style: solid;
+	border-width: 1px;
+	padding: 20px;
+	background-color:#EFEFEF;
+	font-family: 'arial';
+	height: 800px;
+	margin-bottom: 30px;
+	color: #18586F;
+}
+
+.subtotal {
+	border: #707070;
+	border-style: solid;
+	border-width: 1px;
+	background-color:#EFEFEF;
+	font-family: 'arial';
+	height: 90px;
+	text-align: center;
+	font-size: 29px;
+  font-family: 'arial';
+  color: #18586F;
+  text-decoration: none;
+}
+
 hr {
 width: 150px;
 text-align: center;
@@ -423,5 +461,30 @@ section {
      width: 90%;
      height: auto;
    }
+  }
+
+   input[type=text], select, [type=number], [type=email], [type=date] {
+       width: 100%;
+       padding: 12px 20px;
+       margin: 8px 0;
+       display: inline-block;
+       border: 1px solid #ccc;
+       border-radius: 4px;
+       box-sizing: border-box;
    }
+
+   input[type=submit] {
+       width: 100%;
+       background-color: #4CAF50;
+       color: white;
+       padding: 14px 20px;
+       margin: 8px 0;
+       border: none;
+       border-radius: 4px;
+       cursor: pointer;
+   }
+
+   input[type=submit]:hover {
+       background-color: #45a049;
+}
 }
