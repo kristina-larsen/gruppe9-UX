@@ -373,23 +373,29 @@ footer {
 
   .text4 {
     margin-top: -45.8%;
-    margin-left: 2%; }
+    margin-left: 2%;
+    padding-bottom: 8.5%;
+   }
 
   .text5 {
     margin-top: -45.8%;
-    margin-left: 34%; }
+    margin-left: 34%;
+    padding-bottom: 8.5%; }
 
   .text6 {
     margin-top: -45.8%;
-    margin-left: 66.2%; }
+    margin-left: 66.2%;
+    padding-bottom: 8.5%; }
 
   .text7 {
     margin-top: -14.1%;
-    margin-left: 2%; }
+    margin-left: 2%;
+    padding-bottom: 8.5%; }
 
   .text8 {
     margin-top: -14.1%;
-    margin-left: 34%; }
+    margin-left: 34%;
+    padding-bottom: 8.5%; }
 
   footer {
     background-color: black;
@@ -642,6 +648,99 @@ footer {
 .Fortsæt_til_levering2 h1 {
   font-size: 20px;
   color: white;
+}
+
+.heart1 {
+  position: absolute;
+  color: purple;
+  left: 3%;
+  top: 190%;
+}
+
+.heart11 {
+  position: absolute;
+  display: none;
+  margin: 0;
+  padding: 0;
+  color: purple;
+  left: 3%;
+  top: 190%;
+}
+
+.heart2 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: purple;
+  left: 35.5%;
+  top: 190%;
+}
+
+.heart22 {
+  position: absolute;
+  display: none;
+  margin: 0;
+  padding: 0;
+  color: purple;
+  left: 35.5%;
+  top: 190%;
+}
+
+.heart3 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: purple;
+  left: 67.5%;
+  top: 190%;
+}
+
+.heart33 {
+  position: absolute;
+  display: none;
+  margin: 0;
+  padding: 0;
+  color: purple;
+  left: 67.5%;
+  top: 190%;
+}
+
+.heart4 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: purple;
+  left: 3%;
+  top: 251%;
+}
+
+.heart44 {
+  position: absolute;
+  display: none;
+  margin: 0;
+  padding: 0;
+  color: purple;
+  left: 3%;
+  top: 251%;
+}
+
+.heart5 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  color: purple;
+  left: 35.5%;
+  top: 251%;
+}
+
+.heart55 {
+  position: absolute;
+  display: none;
+  margin: 0;
+  padding: 0;
+  color: purple;
+  left: 35.5%;
+  top: 251%;
 }
 
 
